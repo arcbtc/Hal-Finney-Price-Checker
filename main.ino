@@ -2,7 +2,7 @@
 #include <MD_MAX72xx.h>
 #include <SPI.h>
 
-#include <ArduinoJson.h>
+#include <ArduinoJson.h> //downgrade using library manager to version 5.3.0
 #include <WiFi.h>
 #include <WiFiClientSecure.h>
 
