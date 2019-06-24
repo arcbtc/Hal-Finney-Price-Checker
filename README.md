@@ -1,4 +1,4 @@
-[![LED bitcoin price checker](https://i.imgur.com/aSmrQgv.png)](https://www.youtube.com/watch?v=iJ2r8gBTF40)
+[![LED bitcoin price checker](https://i.imgur.com/3qPwUOK.png)](https://www.youtube.com/watch?v=iJ2r8gBTF40)
 
 
 # Hal-Finney-Price-Checker
