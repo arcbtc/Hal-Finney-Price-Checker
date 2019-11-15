@@ -8,3 +8,6 @@ A simple price checker project that displays Hal Finney quotes and fetches and d
 *Use the ArduinoJson6Main.ino project as it uses the updated ArduinoJson library*
 
 
+# Tip me
+If you like this project and might even use or extend it, why not send some tip love!
+https://paywall.link/to/f4e4e
