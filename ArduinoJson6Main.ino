@@ -131,7 +131,8 @@ DynamicJsonDocument doc(capacity);
 
 deserializeJson(doc, line);
 
-String conversionn = doc["data"][on_currency][on_currency.substring(3)]; 
+float conversionnn = doc["data"][on_currency][on_currency.substring(3)]; 
+String conversionn = String("$") + String(conversionnn, 3);
 conversionn.toCharArray(conversion, conversionn.length());
 Serial.println(conversion);
 }
