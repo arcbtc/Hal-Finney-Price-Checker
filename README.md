@@ -3,6 +3,8 @@
 
 # Hal-Finney-Price-Checker
 
+> <i>Join our <a href="https://t.me/makerbits">telegram support/chat</a>.</i>
+
 A simple price checker project that displays Hal Finney quotes and fetches and displays the Bitcoin price.
 
 *Use the ArduinoJson6Main.ino project as it uses the updated ArduinoJson library*
